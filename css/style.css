@@ -111,7 +111,6 @@ body {
 }
 
 .center__text_item {
-
 	margin-top: calc(50px + (60 - 50) * ((100vw - 320px) / (2600 - 320)));
 }
 
